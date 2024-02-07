@@ -1,0 +1,13 @@
+import turtle
+
+# Create a turtle object
+t = turtle.Turtle()
+
+# Set the turtle shape to "turtle"
+t.shape("turtle")
+
+# Set the turtle color to red
+t.color("red")
+
+# Keep the window open until it is manually closed
+turtle.mainloop()
